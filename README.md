@@ -1,10 +1,10 @@
-# MIRA – Medical Intelligence Robotic Automation (Website Design Concept)
+# MIRA – Medical Intelligence Resource Assistant (Website Design Concept)
 
 This project is a website design concept created for the **Career Launch Program – Web Developer task**.
 
-The goal of this project is to design a simple and user-friendly website for **MIRA (Medical Intelligence Robotic Automation)**. MIRA is a healthcare automation platform that uses Artificial Intelligence and Robotic Process Automation to reduce manual administrative work in healthcare organizations.
+MIRA (Medical Intelligence Resource Assistant) is a healthcare technology platform designed to automate clinical and administrative workflows using Artificial Intelligence and automation tools.
 
-This website design focuses on presenting the platform clearly so that healthcare professionals can easily understand its features and benefits.
+This project is a website design concept created to present the MIRA platform in a simple and user-friendly way. The design highlights how automation can help healthcare organizations manage patient communication, registration, billing, and notifications more efficiently.
 
 ---
 
@@ -30,14 +30,14 @@ The website includes the following sections:
 
 ## Key Features Highlighted
 
-The website design highlights the main capabilities of the MIRA platform:
+## Key Features Highlighted in the Design
 
-- MyMedicare Registration Automation  
-- Email Communication Automation  
-- Patient Billing Error Management  
-- Test Result Notifications  
-- Post-Visit Feedback Collection  
-- No-Show Management  
+- MyMedicare Registration Automation
+- Email Communication Automation
+- Patient Billing Error Management
+- Test Result Notifications
+- Post-Visit Feedback Collection
+- No-Show Management
 - Intelligent Patient Engagement  
 
 These features are presented in a simple layout so that users can easily understand how the platform improves healthcare operations.
